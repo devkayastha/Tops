@@ -1,0 +1,33 @@
+//Conditional Statement:-
+
+//1) if statement:-
+//syntax:- if(condition){
+//							true statement
+//}
+
+2)else
+else
+{
+	false statement
+
+}
+
+3)else-if statement:
+
+if(condition)
+{
+	statement;
+}
+
+else if(condition)
+{
+	statement;
+}
+else if(condition)
+{
+	statement;
+}
+else
+{
+	statement;
+}
